@@ -1,6 +1,7 @@
 [submojule "api"]
   path = api
   url = https://github.com/t-hirata74/rails-api-and-nuxt-in-docker-api
+
 [submodule "front"]
   path = front
   url = https://github.com/t-hirata74/rails-api-and-nuxt-in-docker-front
